@@ -21,20 +21,20 @@ The idea behind this AI model is to imitate the human brain cell's ability to le
 
 Listed below are all parameters the user can customize to modify how the AI develops during its training phase. All of these values are stored in binary code in a file called the AIData file. It can be modified using a tool which is currently still in development.
 
-- maxtries: Maximum amount of times the AI will try to do a random based process
-- performencecycles: Amount of times the AI calculates the performance, before it concludes how good the AI was doing
-- createmin: Amount of connections a Cell has to create
-- createmax: Amount of connections a Cell can create
-- createchance: Chance more connections than required get created
-- spawnchance: Chance a new connection creates a new Cell
-- destroymin: Amount of connections a Cell has to destroy
-- destroymax: Amount of connections a Cell can destroy
-- destroychance: Chance more connections than required get destroyed
-- statementchangemin: Percentage of statements that have to change
-- statementchangemax: Percentage of statements that can change
-- statementchangechance: Chance more statements than required get changed
-- inputcount: Amount of inputs
-- outputcount: Amount of outputs
+- `maxtries`: Maximum amount of times the AI will try to do a random based process
+- `performencecycles`: Amount of times the AI calculates the performance, before it concludes how good the AI was doing
+- `createmin`: Amount of connections a Cell has to create
+- `createmax`: Amount of connections a Cell can create
+- `createchance`: Chance more connections than required get created
+- `spawnchance`: Chance a new connection creates a new Cell
+- `destroymin`: Amount of connections a Cell has to destroy
+- `destroymax`: Amount of connections a Cell can destroy
+- `destroychance`: Chance more connections than required get destroyed
+- `statementchangemin`: Percentage of statements that have to change
+- `statementchangemax`: Percentage of statements that can change
+- `statementchangechance`: Chance more statements than required get changed
+- `inputcount`: Amount of inputs
+- `outputcount`: Amount of outputs
 
 #### The AIData file
 
