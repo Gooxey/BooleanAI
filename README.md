@@ -2,11 +2,6 @@
 
 A different approch to create an AI
 
-### Disclaimer
-
-This is not the final product and just a test to try out the original Idea.
-A more polished and user-friendly version is currently in development by improving the library and documentation/README.
-
 ### Concept
 
 The idea behind this AI model is to imitate the human brain cell's ability to learn and to form groups with other neighboring cells.
